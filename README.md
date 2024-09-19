@@ -37,5 +37,5 @@ A simple C++ application to manage student information, record grades, and compu
 ### Acknowledgments
 -This project was created to practice C++ programming concepts and demonstrate basic functionality for managing student records.
 ### View
-![testimg](view,png)
+![logo](view.png)
 
